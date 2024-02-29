@@ -2,7 +2,11 @@
 WIP for now
 
 new features:
+
 usb-c to ttl adapter (optional)
+
 usb-c PD power supply (optional)
+
 better layout
+
 mounting screw holes
