@@ -14,10 +14,12 @@ New features:
 
 Preview pics 
 
-![image](https://github.com/dzastsed/CD61-CD66-nixie-clock-v2/assets/63074962/e82cb656-9550-4754-a701-2ad28ce81b0c)
+![image](https://github.com/dzastsed/Celeb-61/assets/63074962/007035d3-43a9-42e4-838b-8ee01c79e414)
+
 bottom
 
-![image](https://github.com/dzastsed/CD61-CD66-nixie-clock-v2/assets/63074962/e427c9a0-5a86-4ede-aba7-43502c5d80ce)
+![image](https://github.com/dzastsed/Celeb-61/assets/63074962/72b688b9-1312-47fe-a6ec-fe53e476df50)
+
 top
 
 
