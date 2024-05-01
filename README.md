@@ -1,6 +1,5 @@
 # Celeb-61 
 *a nod towards Celeb-17 nickname of Makise Kurisu*
-WIP for now
 
 New features:
 
