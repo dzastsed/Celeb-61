@@ -24,7 +24,8 @@ Top
 
 # Schematic
 
-![image](https://github.com/dzastsed/Celeb-61/assets/63074962/12e80402-ba89-450b-9d7a-e82f7b6c2ae9)
+![image](https://github.com/dzastsed/Celeb-61/assets/63074962/455fe3e2-e6d0-456e-a171-ce1743835597)
+
 
 
 
