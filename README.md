@@ -20,12 +20,12 @@ Bottom
 
 ![image](https://github.com/dzastsed/Celeb-61/assets/63074962/ea5d91ba-3019-463e-9074-f1bb6f952c54)
 
-Bottom, artwork edition
+Top
 
 ![image](https://github.com/dzastsed/Celeb-61/assets/63074962/f1b7556f-8dd0-4f89-9f5b-60615c9a27cb)
 
 
-Top
+Top, artwork edition
 
 # Schematic
 
