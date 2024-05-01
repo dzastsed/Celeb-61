@@ -18,7 +18,8 @@ Preview pics
 
 Bottom
 
-![image](https://github.com/dzastsed/Celeb-61/assets/63074962/72b688b9-1312-47fe-a6ec-fe53e476df50)
+![image](https://github.com/dzastsed/Celeb-61/assets/63074962/ea5d91ba-3019-463e-9074-f1bb6f952c54)
+
 
 Top
 
