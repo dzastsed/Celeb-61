@@ -22,6 +22,8 @@ Bottom
 
 Bottom, artwork edition
 
+![image](https://github.com/dzastsed/Celeb-61/assets/63074962/f1b7556f-8dd0-4f89-9f5b-60615c9a27cb)
+
 
 Top
 
