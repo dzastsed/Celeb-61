@@ -27,6 +27,9 @@ Top
 
 ![image](https://github.com/dzastsed/Celeb-61/assets/63074962/455fe3e2-e6d0-456e-a171-ce1743835597)
 
+# Parts list
+
+see [parts.md](link)
 
 
 
