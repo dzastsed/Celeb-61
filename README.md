@@ -1,7 +1,11 @@
 # Celeb-61 
 *a nod towards Celeb-17 nickname of Makise Kurisu*
 
-New features:
+# DISCLAIMER
+
+This design is still a prototype, stuff may break and/or change. You've been warned.
+
+## New features:
 
 * usb-c to ttl adapter (optional)
 
@@ -34,6 +38,8 @@ Top, artwork edition
 # Firmware
 
 firmware used is still from V1 - you can find it [here](https://github.com/dzastsed/CD61-CD66-nixie-clock-v1/tree/main/firmware/NixieClockSketch)
+
+*note - firmware will be updated accordingly because pinout has slightly changed*
 
 
 # Parts list
