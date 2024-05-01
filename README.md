@@ -29,7 +29,7 @@ Top
 
 # Parts list
 
-see [parts.md](link)
+refer to [parts.md](https://github.com/dzastsed/Celeb-61/blob/main/parts.md)
 
 
 
