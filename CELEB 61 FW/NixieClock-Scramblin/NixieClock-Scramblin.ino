@@ -6,18 +6,18 @@
 #define B4 4
 #define C4 5
 #define D4 6
-#define A3 7
-#define B3 8
-#define C3 9
-#define D3 10
-#define A4 17
-#define B4 12
-#define C4 13
-#define D4 14
-#define A1 15
-#define B1 16
-#define C1 2
-#define D1 1
+#define A1 7
+#define B1 8
+#define C1 9
+#define D1 10
+#define A2 17
+#define B2 12
+#define C2 13
+#define D2 14
+#define A3 15
+#define B3 16
+#define C3 2
+#define D3 1
 char A[4] = {A1, A2, A3, A4};
 char B[4] = {B1, B2, B3, B4};
 char C[4] = {C1, C2, C3, C4};
