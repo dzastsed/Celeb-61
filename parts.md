@@ -18,11 +18,11 @@ Parts required for base model are:
 
 * 12V power supply with at least 3 amps of output power
 
-Optional extras but highly recommended:
-
-* DS3231 RTC - will keep time if power is lost - I purchased mine from [here](https://www.aliexpress.com/item/32533518502.html)
+* DS3231 RTC - I purchased mine from [here](https://www.aliexpress.com/item/1005007091017702.html)
 
   *note - currently on the schematic it is attached to VCC lines - you'll want to use some sort of rechargeable battery with it.*
+
+  Optional extras but highly recommended:
 
 * CH9340C TTL board - will allow easy reprogramming without soldering - I purchased mine [here](https://www.aliexpress.com/item/4001214247042.html)
 
