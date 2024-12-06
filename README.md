@@ -37,10 +37,17 @@ Top, artwork edition
 
 # Firmware
 
-firmware used is still from V1 - you can find it [here](https://github.com/dzastsed/CD61-CD66-nixie-clock-v1/tree/main/firmware/NixieClockSketch)
+Regular clock, and clock with scrambling code implemented are included in this repo.
 
-*note - firmware will be updated accordingly because pinout has slightly changed*
+*note - firmware may still change*
 
+# Known issues
+
+Tube footprint has 0 and dot pins mixed up, so current design needs 4 trace cuts and 4 bodge wires to fix this.
+
+USB-PD module does not perfectly screw in.
+
+There is a better RTC module, which footprint will be added in new revision.
 
 # Parts list
 
