@@ -18,7 +18,7 @@ Parts required for base model are:
 
 * 12V power supply with at least 3 amps of output power
 
-* DS3231 RTC - I purchased mine from [here](https://www.aliexpress.com/item/1005007091017702.html)
+* DS1307 RTC - I purchased mine from [here](https://www.aliexpress.com/item/1005007091017702.html)
 
   *note - currently on the schematic it is attached to VCC lines - you'll want to use some sort of rechargeable battery with it.*
 
