@@ -20,7 +20,7 @@ Parts required for base model are:
 
 * DS1307 RTC - I purchased mine from [here](https://www.aliexpress.com/item/1005007091017702.html)
 
-  *note - currently on the schematic it is attached to VCC lines - you'll want to use some sort of rechargeable battery with it.*
+  *note - DS3231 module is also supported, but make sure you desolder one resistor (documented [here](https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/)) if you choose to use a non-rechargeable battery.*
 
   Optional extras but highly recommended:
 
