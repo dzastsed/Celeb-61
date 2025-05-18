@@ -1,0 +1,266 @@
+(footprint "USB-C POWER MODULE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "U12"
+		(at 13.9699 -0.2541 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bbf775ba-3b7e-466c-a113-02617ade0c53")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "USB Power Module Decoy"
+		(at 13.9699 -2.0321 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d8897a09-f5d1-47bc-ae82-84f439ec781c")
+		(effects
+			(font
+				(size 0.9144 0.9144)
+				(thickness 0.1524)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "USB-C POWER MODULE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "279eca72-445f-4b55-8c14-8493b2ceb06d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca5de497-6a98-40b0-bcd0-7eb72ef85500")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e0e0aac-78c2-4a64-8276-9d98d82cf7f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -2.5401 4.42)
+		(end 7.6199 4.42)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4629d407-0b0f-4e94-80b1-ffc621cb54de")
+	)
+	(fp_line
+		(start -2.5401 14.58)
+		(end -2.5401 4.42)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b5913a87-717f-4b6d-9cd5-10d769c70d5c")
+	)
+	(fp_line
+		(start 0 0)
+		(end 42 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c291fca1-650b-4714-b14b-7eeccadd62a5")
+	)
+	(fp_line
+		(start 0 19)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4a07bd88-98b7-44ac-93b2-b5579b202615")
+	)
+	(fp_line
+		(start 7.6199 4.42)
+		(end 7.6199 14.58)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "71d86b95-af7d-4f63-8b03-173ef0cbd402")
+	)
+	(fp_line
+		(start 7.6199 14.58)
+		(end -2.5401 14.58)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "02c023fd-573f-4db3-9aee-5323cfb3f8d0")
+	)
+	(fp_line
+		(start 42 0)
+		(end 42 19)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8150a997-a280-4a62-9dc4-3babec0a9a24")
+	)
+	(fp_line
+		(start 42 19)
+		(end 0 19)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2d6091ee-bfeb-480c-b421-8124893998f4")
+	)
+	(fp_line
+		(start 42 19)
+		(end 37 19)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ebccb821-93b5-486d-aeb3-f0806a59d50a")
+	)
+	(fp_circle
+		(center 4 2)
+		(end 3 2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "5f99d17c-dae5-4ac1-bc22-28da765418ba")
+	)
+	(fp_circle
+		(center 4 17)
+		(end 5 17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2047c400-8633-41bb-8da7-3baf100bbdf9")
+	)
+	(fp_circle
+		(center 37 8)
+		(end 37 7.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "41dca959-1d78-4efb-be45-6bb94e1767e0")
+	)
+	(fp_circle
+		(center 37 13)
+		(end 37 12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bd27a562-5ad3-4534-b19f-5681f7414eeb")
+	)
+	(fp_circle
+		(center 39 9)
+		(end 39.5 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2cc84cdb-731b-4958-a6d1-1bcc820121ee")
+	)
+	(fp_text user "+"
+		(at 37.75 7.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0795dbcf-befc-48b2-a101-2cc194d4300e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "USB-C"
+		(at 11.6839 9.1439 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "70b89173-fcf5-44fd-a5e3-41b6aeef057c")
+		(effects
+			(font
+				(size 1.6256 1.6256)
+				(thickness 0.2032)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "-"
+		(at 38.75 13.75 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ebad5525-2f68-480c-b415-47cebaaaca49")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "12V"
+		(at 14.676 13.7159 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fcf1e09c-d24c-45ea-b81a-81b4c8ec3d9b")
+		(effects
+			(font
+				(size 1.6256 1.6256)
+				(thickness 0.2032)
+			)
+			(justify left bottom)
+		)
+	)
+)
