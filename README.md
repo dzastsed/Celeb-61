@@ -2,6 +2,8 @@
 *a nod towards Celeb-17 nickname of Makise Kurisu*
 
 # DISCLAIMER
+![nixie](https://github.com/user-attachments/assets/38ba0e72-1e6b-439c-922e-4b083ffc2d4e)
+Working prototype with 2024-05 board design
 
 This design is still a prototype, stuff may break and/or change. You've been warned.
 
