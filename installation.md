@@ -1,7 +1,7 @@
 # Installation guide
 
 ## Hardware
-First of all, order PCB from any PCB service you like. I used JLCPCB, their default settings worked fine.
+First of all, order PCB from any PCB service you like. I used JLCPCB, their default settings worked fine. Gerber is in `gerber` folder.
 
 After you get the PCBs, solder in all parts. A couple of reccomendations:
 
@@ -17,3 +17,10 @@ Now check and see if every single segment shows up correctly in bootup sequence.
 Flash [this](https://github.com/MajicDesigns/MD_DS1307/tree/master/examples/MD_DS1307_Test) firmware, then open up Serial Monitor, set baudrate to 57600 bps, and write in the current clock (refer to the guide that gets printed out.) Make sure you have inserted the RTC battery, otherwise time will be lost upon power loss again.
 
 After successfully setting up and verifying the time, flash `NixieClock-Scramblin` firmware back. And that's it! Clock is now ready for use!
+
+## Post-setup
+
+I highly recommend soldering in the top-side reset button as well, in previous design Arduino board liked to hang on startup for no reason, and this is a safe and easy way to restart it. This also allows easy resetting for tests.
+
+I also recommend using screw standoffs or anything really and repurposing 2nd board to use it as a base to stand on.
+
