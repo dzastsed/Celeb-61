@@ -4,7 +4,7 @@
 
 <img width="1402" height="767" alt="{D4E6624E-90EE-470E-BB59-F3589989F7F6}" src="https://github.com/user-attachments/assets/66c8f970-3d43-4cd6-9549-1f6cf862453a" />
 
-Working beta version with 2025-05 board design
+Working beta version with 2025-05 board design. No more bodges!
 # DISCLAIMER
 This design is still a prototype, stuff may break and/or change. You've been warned.
 
