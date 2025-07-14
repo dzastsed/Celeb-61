@@ -3,7 +3,7 @@
 
 # DISCLAIMER
 ![nixie](https://github.com/user-attachments/assets/38ba0e72-1e6b-439c-922e-4b083ffc2d4e)
-Working prototype with 2024-05 board design
+Working beta version with 2025-05 board design
 
 This design is still a prototype, stuff may break and/or change. You've been warned.
 
@@ -11,7 +11,7 @@ This design is still a prototype, stuff may break and/or change. You've been war
 
 * usb-c to ttl adapter (optional)
 
-* usb-c PD power supply (optional)
+* usb-c power supply (optional)
 
 * better layout
 
@@ -39,21 +39,24 @@ Top, artwork edition
 
 # Firmware
 
-Regular clock, and clock with scrambling code implemented are included in this repo.
-
-*note - firmware may still change*
+Regular clock, and clock with scrambling code implemented are included `firmware` folder.
 
 # Known issues
 
-Tube footprint has 0 and dot pins mixed up, so current design needs 4 trace cuts and 4 bodge wires to fix this.
+None so far :)
 
-USB-PD module does not perfectly screw in.
+# Setup guide
 
-There is a better RTC module, which footprint will be added in new revision.
+refer to [installation.md](https://github.com/dzastsed/Celeb-61/blob/main/installation.md)
 
 # Parts list
 
 refer to [parts.md](https://github.com/dzastsed/Celeb-61/blob/main/parts.md)
+
+# Future improvements
+
+ESP32 support - for wi-fi clock sync etc.
+Diode on TTL module power rail to prevent powering it from secondary USB port (or complete removal of 2ndary USB port as this board can be powered by TTL module just fine).
 
 # Credits
 
