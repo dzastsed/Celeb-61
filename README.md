@@ -44,6 +44,12 @@ Top, artwork edition (legacy design in `old project and gerbers (do not use)` fo
 
 Regular clock, and clock with scrambling code implemented are included `firmware` folder.
 
+- Regular firmware:
+Just does the clock function, and nothing more. It probably isn't even up to date with current board design. Not recommended to use.
+
+- Scramlin' firmware:
+Does character scramble every hour (after 30 seconds pass at 31 minute mark) to prevent cathode poisoning. Up to date. Use this firmware.
+
 # Known issues
 
 None so far :)
