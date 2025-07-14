@@ -4,7 +4,7 @@ Parts required for base model are: (links are NOT affiliate)
 
 * Arduino pro mini clone - must be 5V 16mhz variant - I bought them from [here](https://www.aliexpress.com/item/32966475348.html)
 
- *note - there are a couple of versions with different footprint, make sure you get the one I used in this project.*
+   *note - there are a couple of versions with different footprint, make sure you get the one I used in this project.*
 
 * 4x CD66 or CD61 nixie tubes
 
