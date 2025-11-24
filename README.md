@@ -52,7 +52,7 @@ Does character scramble every hour (after 30 seconds pass at 31 minute mark) to 
 
 # Known issues
 
-None so far :)
+Summer/Winter time improperly (or does not at all?) triggers in Europe.
 
 # Setup guide
 
