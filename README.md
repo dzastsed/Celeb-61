@@ -68,6 +68,8 @@ ESP32 support - for wi-fi clock sync etc.
 
 Diode on TTL module power rail to prevent powering it from secondary USB port (or complete removal of 2ndary USB port as this board can be powered by TTL module just fine).
 
+Different board versions for different tube footprints.
+
 # Credits
 
 TheMobas0 - for help on making the scramble code
