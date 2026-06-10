@@ -52,7 +52,7 @@ Does character scramble every hour (after 30 seconds pass at 31 minute mark) to 
 
 # Known issues
 
-Summer/Winter time improperly (or does not at all?) triggers in Europe.
+None so far?
 
 # Setup guide
 
@@ -69,6 +69,10 @@ ESP32 support - for wi-fi clock sync etc.
 Diode on TTL module power rail to prevent powering it from secondary USB port (or complete removal of 2ndary USB port as this board can be powered by TTL module just fine).
 
 Different board versions for different tube footprints.
+
+A physical switch of some sort to turn the clock off while it's still plugged in
+
+More covering for high voltage parts
 
 # Credits
 
